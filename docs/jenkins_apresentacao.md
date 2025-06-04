@@ -4,10 +4,6 @@
 
 [GitHub do Projeto com Pipelines](https://github.com/tpenha05/projeto_micro)
 
-## Vídeo
-
-[Assista à apresentação (2-3 min)](https://youtube.com/...)
-
 ## Demonstração
 
 Exemplo do Jenkinsfile (`account-service`):

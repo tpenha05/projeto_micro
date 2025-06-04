@@ -8,7 +8,7 @@
 
 ## Vídeo
 
-[Assista à apresentação (2-3 min)](https://youtu.be/dPUG_w2jBmU)
+[Assista à apresentação (2-3 min)](https://youtu.be/bmBF7nIWn64)
 
 ## Demonstração
 
