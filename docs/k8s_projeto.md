@@ -33,7 +33,7 @@ Cada `k8s.yaml` contém:
 
 ## Resultado
 ![K8s Services](imgs/k8s_services.png)
-![Dashboard do Minikube](imgs/k8s.png)
+![Dashboard do Minikube](imgs/image.png)
 
 ## Exemplo de Comando de Verificação
 
