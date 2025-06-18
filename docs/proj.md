@@ -45,11 +45,6 @@ Durante este projeto, nós configuramos a conta AWS e provisionamos um cluster E
 
 Este cluster foi configurado para escalar automaticamente conforme a demanda usando Auto Scaling Groups e HPA.
 
-**Endpoint da API em execução:**  
-
-http://aef1f8f294b95439283d49dcde0dbde5-1733067101.sa-east-1.elb.amazonaws.com
-
-
 ---
 
 ## Análise de Custos
