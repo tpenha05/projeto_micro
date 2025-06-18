@@ -74,7 +74,7 @@ Jenkins do site com deploy :
 
 A plataforma como serviço (PaaS) é um modelo de computação em nuvem que fornece uma plataforma para desenvolver, executar e gerenciar aplicativos sem a complexidade de construir e manter a infraestrutura normalmente associada ao desenvolvimento e lançamento de aplicativos.
 
-![Modelo IaaS, PaaS e SaaS](imgs/paas.png)
+![Modelo IaaS, PaaS e SaaS](imgs/paas.jpg)
 
 Durante o desenvolvimento, empregamos diversos serviços PaaS da AWS de múltiplas maneiras:
 
