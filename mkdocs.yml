@@ -1,0 +1,21 @@
+site_name: Projeto APIs - Exchange e Product
+nav:
+  - Início: index.md
+  - Projeto em Grupo: proj.md
+  - Exchange API:
+    - Projeto: projeto.md
+    - Apresentação: apresentacao.md
+  - Product API:
+    - Projeto: product_projeto.md
+    - Apresentação: product_apresentacao.md
+  - Order API:
+    - Projeto: order_projeto.md
+    - Apresentação: order_apresentacao.md
+  - Jenkins Pipeline:
+    - Projeto: jenkins_projeto.md
+    - Apresentação: jenkins_apresentacao.md
+  - Kubernetes Minikube:
+    - Projeto: k8s_projeto.md
+    - Apresentação: k8s_apresentacao.md
+theme:
+  name: material
