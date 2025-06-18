@@ -41,7 +41,7 @@ O projeto em grupo tem como objetivo aplicar práticas modernas de desenvolvimen
 
 Durante este projeto, nós configuramos a conta AWS e provisionamos um cluster EKS. Abaixo, uma captura de tela do cluster em execução:
 
-![Cluster AWS EKS em execução](img/cluster.png)
+![Cluster AWS EKS em execução](imgs/cluster.png)
 
 Este cluster foi configurado para escalar automaticamente conforme a demanda usando Auto Scaling Groups e HPA.
 
@@ -56,7 +56,7 @@ http://aef1f8f294b95439283d49dcde0dbde5-1733067101.sa-east-1.elb.amazonaws.com
 
 Utilizamos o AWS Pricing Calculator para gerar um plano de custo que reflete o uso estimado dos recursos no EKS:
 
-![Plano de Custo AWS](img/custo.png)
+![Plano de Custo AWS](imgs/custo.png)
 
 A projeção acima demonstra os custos mensais esperados para manter o ambiente dormindo e em uso.
 
@@ -66,7 +66,7 @@ A projeção acima demonstra os custos mensais esperados para manter o ambiente 
 
 Jenkins do site com deploy : 
 
-![Jenkins](img/jenkins.png)
+![Jenkins](imgs/jenkins.png)
 
 ---
 
@@ -74,7 +74,7 @@ Jenkins do site com deploy :
 
 A plataforma como serviço (PaaS) é um modelo de computação em nuvem que fornece uma plataforma para desenvolver, executar e gerenciar aplicativos sem a complexidade de construir e manter a infraestrutura normalmente associada ao desenvolvimento e lançamento de aplicativos.
 
-![Modelo IaaS, PaaS e SaaS](img/iaas-paas.png)
+![Modelo IaaS, PaaS e SaaS](imgs/paas.png)
 
 Durante o desenvolvimento, empregamos diversos serviços PaaS da AWS de múltiplas maneiras:
 
