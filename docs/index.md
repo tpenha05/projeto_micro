@@ -1,3 +1,3 @@
 # Exercícios Microsserviços - 2025.1
 
-**Aluno**: Thiago Penha Pinheiro da Costa
+**Alunos**: Thiago Penha Pinheiro da Costa e Henrique Mayor
